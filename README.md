@@ -10,7 +10,7 @@ Setup:
     Select "Open file" and navigate to the a3_students_db.sql file and open it.
     Click "Execute" or press F5
 
-    NOTE: Please ensure you keep the database open to be able to connect to it when using the program
+    NOTE: Please ensure you keep the database open to be able to connect to it when using the program below.
     
     Download the assignment3_code.py file
     Navigate to the location of the file and open a command prompt in this directory.
