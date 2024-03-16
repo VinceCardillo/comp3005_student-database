@@ -11,7 +11,9 @@ Setup:
     Click "Execute" or press F5
 
     NOTE: Please ensure you keep the database open to be able to connect to it when using the program below.
-    
+           
     Download the assignment3_code.py file
+    NOTE: The user name and password on line 56 and 57 might need to be updated if they are different on your machine. 
+    
     Navigate to the location of the file and open a command prompt in this directory.
     Enter the command "python assignment3_code.py" to launch the program.
