@@ -5,7 +5,7 @@ def main():
     connect()
     
     while True:
-        print("1. Get all student records")
+        print("\n1. Get all student records")
         print("2. Add a student")
         print("3. Update a student email")
         print("4. Delete a student")
